@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+.foto-3 {
+    opacity: 0;
+    width: 0;
+
+}
+
+.fundo-2 {
+
+    opacity: 0;
+    width: 0;
+}
+
+.cadeira-01 {
+    opacity: 0;
+    width: 0;
+}
+
+.fundo-1 {
+    opacity: 0;
+    width: 0;
+}
+
+.foto-branca {
+
+    opacity: 0;
+    width: 0;
+}
+
+
+.image-fundo {
+
+    position: static;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    cursor: pointer;
+    display: block;
+    margin: 100px 616px 0px 750px;
+    font-size: 34px;
+    color: rgb(253, 253, 253);
+    margin-top: -832px;
+
+}
+
+.inst-01 {
+    color: rgb(253, 253, 253);
+    margin-right: 110px;
+    margin-left: -185px;
+}
+
+a:hover {
+    opacity: 0.4;
+}
+
+a:active {
+    opacity: 0, 8;
+}
+
+.inst-02 {
+    color: rgb(253, 253, 253);
+    margin-left: 181px;
+}
+
+nav {
+    margin: 86px 600px 345px 600px;
+    color: rgb(253, 253, 253);
+    width: 279px;
+    margin-left: 751px;
+}
+
+.text-h1 {
+    font-size: 42px;
+    line-height: -112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+
+.paragrafo-1 {
+
+
+    font-size: 26px;
+    line-height: -112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.paragrafo-2 {
+
+    font-size: 26px;
+    line-height: -112px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+
+.contener-0 {
+
+    width: 1120px;
+    height: 512px;
+    left: 402px;
+    top: 726px;
+    margin: auto;
+    margin-top: -263px;
+
+}
+
+.image-preto {
+    position: static;
+
+}
+
+.image-1 {
+    margin-bottom: -27px;
+}
+
+.image-2 {
+
+    margin-top: -298px;
+
+}
+
+.fundo-black {
+    height: 597px;
+    width: 9000px;
+    margin: 0;
+    margin-bottom: -80px;
+}
+
+.contener-5 {
+
+
+
+    margin-top: -265px;
+    margin-left: 133px;
+}
+
+.foto-branca {
+    display: none;
+}
+
+
+.iframe-1 {
+
+    margin-bottom: 52px;
+    width: 272px;
+    height: 219px;
+    border-radius: 32px;
+    margin-left: 300px;
+
+}
+
+
+.video-1 {
+    width: 594px;
+    width: 782px;
+    height: 343px;
+    margin-top: -492px;
+    margin-left: 730px;
+}
+
+@media screen and (max-width:700px) {
+
+    .cadeira-01 {
+        position: absolute;
+        width: 390px;
+        height: 1133.82px;
+        left: 0px;
+        top: 0px;
+        opacity: 1;
+    }
+
+    header {
+
+        cursor: pointer;
+        display: block;
+        margin: 100px 616px 0px 750px;
+        font-size: 36px;
+        color: rgb(253, 253, 253);
+        margin-top: -832px;
+        margin-left: 184px;
+    }
+
+
+
+
+
+    .inst-01 {
+
+        position: absolute;
+        width: 594.73px;
+        height: 116px;
+        left: 298px;
+        top: 63px;
+
+    }
+
+    .inst-02 {
+
+        display: none;
+    }
+
+
+
+
+    .fundo-1 {
+
+
+        width: 390px;
+        height: 2465px;
+        left: 0px;
+        top: 179px;
+        opacity: 1;
+    }
+
+
+
+
+    .fundo-2 {
+        opacity: 1;
+        position: absolute;
+        width: 390px;
+        height: 388px;
+        left: 0px;
+        top: 1707px;
+        background: url(1633523022_44-mykaleidoscope-ru-p-barbershop-interer-interer-krasivo-foto-48.jpg);
+
+    }
+
+    .foto-3 {
+        opacity: 1;
+        position: absolute;
+        width: 284px;
+        height: 291px;
+        left: 53.63px;
+        top: 1761px;
+        background: url(9dbd4c887750a34f1f87b086f32ecaff--long-hairstyles-for-men-creative-hairstyles.jpg);
+        transform: rotate(7.94deg);
+        margin: 76px 92, 19px 97, 57px 83, 38px;
+
+
+    }
+
+    .image-fundo {
+
+        display: none;
+    }
+
+    .image-1 {
+        display: none;
+    }
+
+    .image-2 {
+        display: none;
+
+    }
+
+    .contener-0 {
+        display: none;
+
+    }
+
+    .image-preto {
+        display: none;
+
+    }
+
+    .fundo-black {
+
+        display: none
+    }
+
+
+
+    .contener-5 {
+        display: block;
+        margin-top: -200;
+        margin-left: -233px;
+    }
+
+    .iframe-1 {
+
+        margin-top: 199px;
+    }
+
+
+
+    .video-1 {
+        display: none;
+    }
+
+
+    .contener-6 {
+        display: none;
+
+    }
+
+
+
+    .foto-branca {
+        FONT-VARIANT-EAST-ASIAN: JIS04;
+        display: table-cell;
+        position: absolute;
+        width: 391px;
+        left: 24px;
+        margin-top: -1411px;
+        opacity: 1;
+        padding: 29px;
+    }
+
+
+    h1 {
+
+        position: absolute;
+        width: 386px;
+        height: 130px;
+        left: 10px;
+        top: 264px;
+
+
+
+
+    }
+
+
+}
